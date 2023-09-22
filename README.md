@@ -5,6 +5,8 @@ The hour will change colour to indicate if it is in the present, past or future.
 
 The user can input text into the center column for each hour. They can click the blue save button to save their entry to the their local storage.
 
+![Uploading Screenshot 2023-09-14 at 9.26.54 pm.png…]()
+
 ## User Story
 
 AS AN employee with a busy schedule
